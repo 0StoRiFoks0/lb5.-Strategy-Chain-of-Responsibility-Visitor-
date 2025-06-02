@@ -38,7 +38,7 @@ g++ -std=c++11 -o lab5 main.cpp
 1. Склонуйте репозиторій:
 
 ```bash
-git clone https://github.com/your_username/lab5-behavior-patterns.git
+[git clone https://github.com/your_username/lab5-behavior-patterns.git](https://github.com/0StoRiFoks0/lb5.-Strategy-Chain-of-Responsibility-Visitor-.git)
 cd lab5-behavior-patterns
 ```
 
